@@ -1,0 +1,13 @@
+# Build
+bin/
+obj/
+*.user
+
+# IDE
+.idea/
+.vs/
+.vscode/
+
+# Local overrides
+appsettings.Development.json
+appsettings.Local.json
